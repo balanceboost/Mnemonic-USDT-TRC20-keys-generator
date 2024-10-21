@@ -21,9 +21,7 @@
 Запустите скрипт в консоли командой:
 
 	python Mnemonic USDT TRC20.py
- 
-Для поддержки автора: TFbR9gXb5r6pcALasjX1FKBArbKc4xBjY8
---------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------
 This program performs a check of USDT TRC20 addresses generated from mnemonic phrases for transactions and balances. It also displays real-time system metrics (CPU, RAM, and disk usage), and saves the results to files:
 
 	Found_USDT_TRC20.txt — contains addresses with transactions.
@@ -46,5 +44,3 @@ Then, run the command:
 Start the script by running the following command in the console:
 
 	python Mnemonic USDT TRC20.py
-
-To support the author: TFbR9gXb5r6pcALasjX1FKBArbKc4xBjY8
