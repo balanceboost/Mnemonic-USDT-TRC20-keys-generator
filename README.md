@@ -22,7 +22,7 @@
 
 	python Mnemonic USDT TRC20.py
 --------------------------------------------------------------------------------------
-This program performs a check of Ethereum addresses generated from mnemonic phrases for transactions and balances. It also displays real-time system metrics (CPU, RAM, and disk usage), and saves the results to files:
+This program performs a check of USDT TRC20 addresses generated from mnemonic phrases for transactions and balances. It also displays real-time system metrics (CPU, RAM, and disk usage), and saves the results to files:
 
 	Found_USDT_TRC20.txt — contains addresses with transactions.
 	BAD_USDT_TRC20.txt — contains addresses without transactions.
